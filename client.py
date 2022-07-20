@@ -2,7 +2,7 @@ import socket
 
 
 
-host = '127.0.0.1' 
+host = 'local ip' 
 port = 56652
 respond= "quite, disconnect"
 
